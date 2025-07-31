@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Itamar Hadad
 
-<!--
-**Itamar-Hadad/Itamar-Hadad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science student at Afeka – Tel Aviv Academic College of Engineering.  
+💡 Passionate about software development, algorithms, machine learning, cyber security, and game development.  
+🛠️ I enjoy solving challenging problems and building creative, real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- 🔗 **[OnlineStoreJava](https://github.com/Itamar-Hadad/OnlineStoreJava)** – Java-based online store system integrated with PostgreSQL  
+- 🎮 **[Unity-Game](https://github.com/Itamar-Hadad/Unity-Game)** – Demo video of a Unity game project  
+- 🛒 **[c-food-store](https://github.com/Itamar-Hadad/c-food-store)** – Modular food store management system in C  
+- 💻 **[java-online-store](https://github.com/Itamar-Hadad/java-online-store)** – Object-oriented Java e-commerce simulation  
+- 🔢 **[2048-game-c](https://github.com/Itamar-Hadad/2048-game-c)** – Console-based 2048 game in C using pointer arithmetic  
+- 🧠 **[house-price-prediction](https://github.com/Itamar-Hadad/house-price-prediction)** – ML project predicting house prices  
+- 🛟 **[titanic-classification-ensemble](https://github.com/Itamar-Hadad/titanic-classification-ensemble)** – Ensemble ML model for Titanic survival  
+- 📊 **[titanic-logistic-regression](https://github.com/Itamar-Hadad/titanic-logistic-regression)** – Logistic regression for Titanic dataset
+
+---
+
+## 🛠️ Tech Stack
+- Languages: `Java`, `C`, `Python`, `SQL`
+- Databases: `PostgreSQL`, `SQLite`
+- Tools: `Git`, `Jupyter`, `Unity`, `IntelliJ`, `VSCode`
+
+---
+
+## 📫 Let's connect!
+- 📧 hzitamar4@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/itamar-hadad)
