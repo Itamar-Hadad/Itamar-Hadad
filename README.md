@@ -8,6 +8,7 @@
 
 ## 🚀 Featured Projects
 
+- 🤖 **[AfekaQA-Bot](https://github.com/Itamar-Hadad/AfekaQA-Bot)** – RAG-based chatbot built with n8n & AI (1st place in Afeka Hackathon 2025)  
 - 🔗 **[OnlineStoreJava](https://github.com/Itamar-Hadad/OnlineStoreJava)** – Java-based online store system integrated with PostgreSQL  
 - 🎮 **[Unity-Game](https://github.com/Itamar-Hadad/Unity-Game)** – Demo video of a Unity game project  
 - 🛒 **[c-food-store](https://github.com/Itamar-Hadad/c-food-store)** – Modular food store management system in C  
@@ -20,9 +21,14 @@
 ---
 
 ## 🛠️ Tech Stack
-- Languages: `Java`, `C`, `Python`, `SQL`
-- Databases: `PostgreSQL`, `SQLite`
-- Tools: `Git`, `Jupyter`, `Unity`, `IntelliJ`, `VSCode`
+
+- **Languages:** Java, C, Python, SQL 
+- **Frameworks & Tools:** Unity, Git, IntelliJ, VSCode, Jupyter  
+- **Databases:** PostgreSQL 
+- **Machine Learning:** Pandas, NumPy, Scikit-learn  
+- **Systems & Platforms:** Linux (Ubuntu), VMware, Docker (basics)  
+- **Core Expertise:** Algorithms & Data Structures, Operating Systems, Database Systems, AI/ML, Game Development
+
 
 ---
 
