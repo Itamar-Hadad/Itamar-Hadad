@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Itamar Hadad
 
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/b548ad33-d2af-4638-8b0c-b64f30997e4a" />
+
+
 🎓 B.Sc. Computer Science student at Afeka – Tel Aviv Academic College of Engineering.  
 💡 Passionate about software development, algorithms, machine learning, cyber security, and game development.  
 🛠️ I enjoy solving challenging problems and building creative, real-world solutions.
