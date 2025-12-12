@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Itamar Hadad
 
-<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/b548ad33-d2af-4638-8b0c-b64f30997e4a" />
+<img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/0e5f353c-a871-463a-a067-e510fcf1afb0" />
+
 
 
 🎓 B.Sc. Computer Science student at Afeka – Tel Aviv Academic College of Engineering.  
