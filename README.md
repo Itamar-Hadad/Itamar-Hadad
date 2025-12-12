@@ -44,18 +44,25 @@
   <a href="https://n8n.io/?ps_partner_key=OGQ5Y2U0NTczN2Qz&ps_xid=WECVqy9XwSnojW&gsxid=WECVqy9XwSnojW&gspk=OGQ5Y2U0NTczN2Qz&gad_source=1&gad_campaignid=21765012948&gbraid=0AAAAABUVYR25EGH2N-H8HZrRqW4BJXPTI&gclid=CjwKCAiAl-_JBhBjEiwAn3rN7XCDXgA1PxBT7hlNJxjcZUN-oQ0p1vPARr73Rvgd1Ih0jrCZf2-gnhoCQVgQAvD_BwE" target="_blank"><img src="https://github.com/user-attachments/assets/1b69c659-e6c6-462d-9ffc-7cb2e2c51a2f" width="100" alt="n8n"/></a>
 </p>
 
-
-
-- **Languages:** Java, C, Python, SQL 
-- **Frameworks & Tools:** Unity, Git, IntelliJ, VSCode, Jupyter  
-- **Databases:** PostgreSQL 
-- **Machine Learning:** Pandas, NumPy, Scikit-learn  
-- **Systems & Platforms:** Linux (Ubuntu), VMware, Docker (basics)  
-- **Core Expertise:** Algorithms & Data Structures, Operating Systems, Database Systems, AI/ML, Game Development
+- **Languages:** Python, C, SQL, Java (OOP), Kotlin, Assembly (MIPS)
+- **Markup & Web:** XML, HTML
+- **Frameworks & Tools:** Unity, Git, OpenMP, MPI, CUDA, n8n, OpenAI API
+- **Databases:** PostgreSQL
+- **Machine Learning & Data:** Pandas, NumPy, Scikit-learn, Machine Learning, Data Cleaning & Preprocessing
+- **Systems & Platforms:** Linux (Ubuntu), VMware, Docker (basics)
+- **Core Expertise:** Data Structures, Algorithms, Operating Systems, Concurrency & Multithreading, Networking Protocols, AI / ML, Game Development
 
 
 ---
 
 ## 📫 Let's connect!
-- 📧 hzitamar4@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/itamar-hadad)
+<p align="center">
+  <a href="https://www.linkedin.com/in/itamar-hadad-1aa946307/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hzitamar4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
