@@ -12,8 +12,9 @@
 
 ## 🚀 Featured Projects
 
-- 🤖 **[AfekaQA-Bot](https://github.com/Itamar-Hadad/AfekQA---Q-A-Bot)** – RAG-based chatbot built with n8n & AI (1st place in Afeka Hackathon 2025) 
-- 🔗 **[OnlineStoreJava](https://github.com/Itamar-Hadad/OnlineStoreJava)** – Java-based online store system integrated with PostgreSQL  
+- 🤖 **[AfekaQA-Bot](https://github.com/Itamar-Hadad/AfekQA---Q-A-Bot)** – RAG-based chatbot built with n8n & AI (1st place in Afeka Hackathon 2025)
+- 🚀 **[Spaceship-Escape](https://github.com/Itamar-Hadad/Spaceship-Escape)** – Kotlin-based Android game with sensors, animations, sound, persistent high scores, and Google Maps integration
+- 🔗 **[OnlineStoreJava](https://github.com/Itamar-Hadad/OnlineStoreJava)** – Java-based online store system integrated with PostgreSQL
 - 🎮 **[Unity-Game](https://github.com/Itamar-Hadad/Unity-Game)** – Demo video of a Unity game project  
 - 🛒 **[c-food-store](https://github.com/Itamar-Hadad/c-food-store)** – Modular food store management system in C  
 - 💻 **[java-online-store](https://github.com/Itamar-Hadad/java-online-store)** – Object-oriented Java e-commerce simulation  
