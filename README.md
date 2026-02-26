@@ -13,6 +13,8 @@
 ## 🚀 Featured Projects
 
 - 🤖 **[AfekaQA-Bot](https://github.com/Itamar-Hadad/AfekQA---Q-A-Bot)** – RAG-based chatbot built with n8n & AI (1st place in Afeka Hackathon 2025)
+- 🗺️ **[Afeka-Trips-Routes-2026](https://github.com/Itamar-Hadad/afeka-trips-2026)** - Full stack route planning platform (Next.js + Express) with JWT authentication, interactive Leaflet maps, realistic route generation, live weather integration, and LLM powered travel insights
+- 🐶 **[WhoofPark](https://github.com/Itamar-Hadad/WhoofPark)** - Real-time dog park presence Android app featuring live occupancy tracking, dynamic dog profiles, park-specific chats, location-based validation, and background presence management (WorkManager)
 - 🚀 **[Spaceship-Escape](https://github.com/Itamar-Hadad/Spaceship-Escape)** – Kotlin-based Android game with sensors, animations, sound, persistent high scores, and Google Maps integration
 - 🌍 **[Automated-Html-Travel-Page-Generator](https://github.com/Itamar-Hadad/Automated-Html-Travel-Page-Generator)** – End-to-end n8n automation that generates AI-powered travel HTML pages from Airtable input, deploys them to GitHub Pages, and supports email-based approve/reject workflow
 - 🔗 **[OnlineStoreJava](https://github.com/Itamar-Hadad/OnlineStoreJava)** – Java-based online store system integrated with PostgreSQL
