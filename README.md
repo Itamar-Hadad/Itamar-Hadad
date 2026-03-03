@@ -25,6 +25,7 @@
 - 🧠 **[house-price-prediction](https://github.com/Itamar-Hadad/house-price-prediction)** – ML project predicting house prices  
 - 🛟 **[titanic-classification-ensemble](https://github.com/Itamar-Hadad/titanic-classification-ensemble)** – Ensemble ML model for Titanic survival  
 - 📊 **[titanic-logistic-regression](https://github.com/Itamar-Hadad/titanic-logistic-regression)** – Logistic regression for Titanic dataset
+- 🃏 **[WarCardGame, iOS](https://github.com/Itamar-Hadad/War-Card-Game)** – SwiftUI based iOS card game built to explore state driven UI, reactive rendering, and cross platform mobile development.
 
 ---
 
