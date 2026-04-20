@@ -4,7 +4,7 @@
 
 
 
-🎓 B.Sc. Computer Science student at Afeka – Tel Aviv Academic College of Engineering.  
+🎓 B.Sc. Computer Science student at Afeka Tel Aviv Academic College of Engineering.  
 💡 Passionate about software development, algorithms, machine learning, cyber security, and game development.  
 🛠️ I enjoy solving challenging problems and building creative, real-world solutions.
 
