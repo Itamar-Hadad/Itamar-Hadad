@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Itamar Hadad
 
-<img width="3400" height="550" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/0e5f353c-a871-463a-a067-e510fcf1afb0" />
+<img width="3400" height="900" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/0e5f353c-a871-463a-a067-e510fcf1afb0" />
 
 
 
